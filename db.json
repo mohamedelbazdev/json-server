@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Phones"
+    },
+    {
+      "id": 2,
+      "name": "Labtops"
+    },
+    {
+      "id": 3,
+      "name": "Desktop"
+    },
+    {
+      "id": "4",
+      "name": "tv"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "name": "Prod One",
+      "purchaseDate": "new Date('Jun 4,2023 10: 13: 00')",
+      "quantity": 20,
+      "price": 60,
+      "image": "https://fakeimg.pl/100x100/",
+      "categoryID": 1
+    },
+    {
+      "id": 2,
+      "name": "Prod Two",
+      "purchaseDate": "new Date('February 17,2023 10: 13: 00')",
+      "quantity": 40,
+      "price": 55,
+      "image": "https://fakeimg.pl/100x100/",
+      "categoryID": 1
+    },
+    {
+      "id": 3,
+      "name": "Prod three",
+      "purchaseDate": "new Date('February 9, 2023 10:13:00')",
+      "quantity": 0,
+      "price": 80,
+      "image": "https://fakeimg.pl/100x100/",
+      "categoryID": 2
+    },
+    {
+      "id": 4,
+      "name": "Prod four",
+      "purchaseDate": "new Date('Mar 22, 2023 10:13:00')",
+      "quantity": 15,
+      "price": 10,
+      "image": "https://fakeimg.pl/100x100/",
+      "categoryID": 3
+    },
+    {
+      "id": 5,
+      "name": "Prod five",
+      "purchaseDate": "new Date('Oct 16, 2023 10:13:00')",
+      "quantity": 1,
+      "price": 17,
+      "image": "https://fakeimg.pl/100x100/",
+      "categoryID": 3
+    },
+    {
+      "id": 6,
+      "name": "Prod six",
+      "purchaseDate": "new Date('February 2, 2023 10:13:00')",
+      "quantity": 25,
+      "price": 18,
+      "image": "https://fakeimg.pl/100x100/",
+      "categoryID": 2
+    },
+    {
+      "id": 7,
+      "name": "Tornado",
+      "purchaseDate": "new Date('February 2, 2023 10:13:00'",
+      "price": 33000,
+      "quantity": 2,
+      "image": "https://fakeimg.pl/250x100",
+      "categoryID": 2
+    },
+    {
+      "name": "Note",
+      "quantity": 50,
+      "price": 1000,
+      "categoryID": "1",
+      "id": 8,
+      "image": "https://fakeimg.pl/100x100/"
+    },
+    {
+      "name": "mnmnas",
+      "quantity": 3,
+      "purchaseDate": "2022-07-11",
+      "price": 34,
+      "categoryID": "3",
+      "id": 9,
+      "image": "https://fakeimg.pl/100x100/"
+    }
+  ]
+}
